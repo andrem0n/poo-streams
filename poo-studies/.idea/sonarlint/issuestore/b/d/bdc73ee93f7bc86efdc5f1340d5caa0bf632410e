@@ -1,0 +1,10 @@
+
+P
+java:S1481".Remove this unused "reprovado" local variable.(òœşëüÿÿÿÿ8±Ö¹Ä.
+q
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(¶ƒÅ­8ÿ¬ğ¸Ä.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ùÿ«úÿÿÿÿ8Š÷€¹Ä.
+_
+java:S1854"=Remove this useless assignment to local variable "reprovado".(òœşëüÿÿÿÿ8±Ö¹Ä.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(µ»â…8ÀÂ…¹Ä.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ºú¹åıÿÿÿÿ8ğ­ˆ¹Ä.

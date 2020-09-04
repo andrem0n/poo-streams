@@ -1,0 +1,9 @@
+
+U	java:S106"9Replace this use of System.out or System.err by a logger.(«‹Îõ8¾Óğò·.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(„•˜ûÿÿÿÿ8‹İ»ó·.
+Y
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(‚¹óÜúÿÿÿÿ8ÅÚ¹ó·.
+T
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(ØóÔÍ8¼¦¿ó·.
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦ñŠ øÿÿÿÿ8îÄïò·.

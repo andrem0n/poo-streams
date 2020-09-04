@@ -1,0 +1,8 @@
+
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“Á¶øÿÿÿÿ8ûÇßé¯.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“Á¶øÿÿÿÿ8ıŞé¯.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(“Á¶øÿÿÿÿ8ûÕÔé¯.
+Z	java:S106	"9Replace this use of System.out or System.err by a logger.(†¹ş˜ÿÿÿÿÿ8öö™è¯.
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(†¹ş˜ÿÿÿÿÿ8Õ¯Öé¯.
+v
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(¥ùÿÿÿÿÿ8ãƒì¯.

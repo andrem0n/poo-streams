@@ -1,0 +1,10 @@
+
+K
+java:S1481".Remove this unused "somatorio" local variable.(ÌÎô¯8ú‚¼‘Ä.
+Z
+java:S1854"=Remove this useless assignment to local variable "somatorio".(ÌÎô¯8ú‚¼‘Ä.
+w
+java:S4276"ZRefactor this code to use the more specialised Functional Interface 'DoubleBinaryOperator'(ÌÎô¯8ú‚¼‘Ä.
+N
+java:S1612",Replace this lambda with a method reference.(±¤ƒúÿÿÿÿ8®êƒ’Ä.
+U	java:S106"9Replace this use of System.out or System.err by a logger.(æ’—©8ƒ„˜’Ä.
